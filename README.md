@@ -1,2 +1,2 @@
 # learn-heima-ps-e-comercial
-淘宝电商从入门到精通
+淘宝电商美工从入门到精通
